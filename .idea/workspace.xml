@@ -2,38 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adebb951-26e1-4f07-b164-c05cc1aae412" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/Image_4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/imag_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/image_0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/image_2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/image_3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/image_5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/image_7.png" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/jhon-chavarria.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jhon-chavarria.github.io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/jhon_chavarria.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/jhon_chavarria.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/admin_ficohsa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/admin_ficohsa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/avatar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/avatar_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bcn.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/bcn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blast.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/blast.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/casa_pellas.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/casa_pellas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contratos.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/contratos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/end.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/end.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ficohsa_slot_machine.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ficohsa_slot_machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gol_movistar.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/gol_movistar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/jonathan.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/jonathan.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/jonathan_2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/jonathan_2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/jonathan_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/jonathan_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lds.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/lds.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/masempleo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/masempleo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/nicaslam.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/nicaslam.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/nuskin.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/nuskin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/operador_movil.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/operador_movil.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/picture.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/picture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/picture2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/picture2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/picture3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/picture3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pinball_app.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/pinball_app.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/promokatch.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/promokatch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/regalon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/regalon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/vivo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/vivo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upoli/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/upoli/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upoli/saturday-classes.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/upoli/saturday-classes.html.php" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="659">
-              <caret line="1360" column="98" lean-forward="false" selection-start-line="1360" selection-start-column="98" selection-end-line="1360" selection-end-column="98" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -56,12 +66,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="109" />
     <option name="y" value="61" />
     <option name="width" value="1672" />
     <option name="height" value="1063" />
   </component>
+  <component name="ProjectId" id="2RysIIe0jpBRV8JNvoSyGpovNwi" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -97,32 +111,24 @@
       <pane id="Scratches" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/jchavarria/Sites/git/websites/jhon-chavarria.github.io",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -135,6 +141,7 @@
       <updated>1538664888049</updated>
       <workItem from="1538664889292" duration="1634000" />
       <workItem from="1539882235056" duration="1031000" />
+      <workItem from="1688233574330" duration="549000" />
     </task>
     <servers />
   </component>
@@ -164,14 +171,18 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
