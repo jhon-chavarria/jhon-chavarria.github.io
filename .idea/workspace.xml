@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adebb951-26e1-4f07-b164-c05cc1aae412" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +84,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/jchavarria/Sites/git/websites/jhon-chavarria.github.io",
     "nodejs_package_manager_path": "npm",
@@ -109,6 +111,7 @@
       <workItem from="1538664889292" duration="1634000" />
       <workItem from="1539882235056" duration="1031000" />
       <workItem from="1688233574330" duration="1758000" />
+      <workItem from="1688235504828" duration="60000" />
     </task>
     <servers />
   </component>
