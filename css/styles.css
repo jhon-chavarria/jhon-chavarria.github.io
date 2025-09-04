@@ -1004,3 +1004,7 @@ textarea.form-control {
 .mac.gecko #portfolio .line-content {
   height: 280px;
 }
+
+.list-skills {
+  margin-left: 30px;
+}
